@@ -1,0 +1,39 @@
+Le projet qu’on va construire
+
+Nom du projet : Suivi de mesures industrielles
+
+Objectif :
+
+Créer une base de données pour suivre les mesures (température, pression, vibration, courant) de différentes machines industrielles, avec détection d’anomalies.
+
+Technos utilisées :
+- MySQL (base de données)
+- Python (interface de lecture/écriture)
+- SQLAlchemy + Pandas (pour manipuler les données)
+
+Plan du projet
+
+Phase 1 : Conception
+- Définir les tables : machines, mesures
+- Définir les types de données et les relations
+
+Phase 2 : Implémentation SQL
+- Créer la base et les tables dans MySQL
+- Insérer des données de test
+
+Phase 3 : Connexion Python → MySQL
+- Installer les bons modules
+- Écrire le code de connexion
+
+Phase 4 : Lecture et insertion depuis Python
+- Lire les machines et les mesures
+- Insérer une nouvelle mesure
+
+Phase 5 : Structuration du code
+- Créer des fonctions Python réutilisables
+- Organiser le projet en modules
+
+Phase 6 : Présentation et valorisation
+- Préparer un README clair
+- Rédiger une fiche projet pour ton CV
+- Préparer une explication pour l’entretien
