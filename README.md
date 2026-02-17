@@ -42,7 +42,7 @@ Le fichier **DATABASE Projet Industriel.sql** contient :
 
 ---
 
-## ⚙️ Fonctionnement du projet
+## Fonctionnement du projet
 
 ### Créer la base MySQL  
 Importer le fichier SQL dans MySQL Workbench ou via la ligne de commande :
