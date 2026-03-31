@@ -35,5 +35,3 @@ Phase 5 : Structuration du code
 
 Phase 6 : Présentation et valorisation
 - Préparer un README clair
-- Rédiger une fiche projet pour ton CV
-- Préparer une explication pour l’entretien
